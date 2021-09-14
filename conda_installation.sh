@@ -91,4 +91,5 @@ jupyter notebook --no-browser
 ## References
 ##----------------------------------------##
 
+## https://bioconda.github.io/user/install.html
 ## https://gist.github.com/kauffmanes/5e74916617f9993bc3479f401dfec7da
